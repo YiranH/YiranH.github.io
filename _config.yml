@@ -1,4 +1,4 @@
-title: "Yiran's Blog"
+title: "Sans Souci"
 author: "Yiran"
 description: "Personal blog and website of Yiran"
 permalink: /:title/
@@ -17,7 +17,7 @@ show_title: false # always keep the site title visible
 # Styling
 
 dark_header: false # always keep the header dark
-minimal: false # use simpler style
+minimal: true # use simpler style
 
 # # style: minimal             # use a simpler style inspired by the minima theme
 # hide_title: false # remove site heading in the header
@@ -33,9 +33,9 @@ navigation:
   - { file: "about.md", icon: address-card }
 
 external: # see http://fontawesome.com/icons
-#  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-#  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-#  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+ - {title: Mail, icon: envelope, url: "mailto:huangyr09@gmail.com"}
+ - {title: Github, icon: github, url: "https://github.com/YiranH"}
+ - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
 #  disqus_shortname: ""      # see https://disqus.com/
