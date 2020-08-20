@@ -43,4 +43,4 @@ comments:
 
 plugins:
   - jekyll-feed
-  # - jekyll-default-layout
+  - jekyll-default-layout
