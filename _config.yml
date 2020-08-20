@@ -31,6 +31,7 @@ minimal: true # use simpler style
 navigation:
   - { file: "index.html", icon: home }
   - { file: "about.md", icon: address-card }
+  - { file: "project.md", icon: code }
 
 external: # see http://fontawesome.com/icons
  - {title: Mail, icon: envelope, url: "mailto:huangyr09@gmail.com"}
