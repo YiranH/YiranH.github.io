@@ -23,7 +23,7 @@ layout: page
     * Set up server to connect client nodes to reduce latency, adopted Socket.io to enable real-time bi-directional communication.
     * Implemented Conflict-Free Replicated Data Type for data transmission to achieve concurrency control and consistency maintenance.
 
-* [Self-Evaluation System for Graduate Algorithm Course]() (Sept. - Dec. 2019)
+* [Self-Evaluation System for Graduate Algorithm Course](https://safe-bayou-24170.herokuapp.com/) (Sept. - Dec. 2019)
     * Developed a self-evaluation website for a graduate course using Ruby on Rails framework and MVC architecture, withfunctions of adding questions, selecting question topics, taking tests, and resetting passwords.
     * Set up application on AWS Cloud9 and deployed application on Heroku with PostgreSQL as database.
     * Designed user interface using HTML, CSS and JavaScript, applied MathJax to display mathematical notation in browsers.
